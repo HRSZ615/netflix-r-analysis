@@ -39,6 +39,3 @@ A linear regression of content volume by release year (R-squared = 0.36) confirm
 ## Files
 - `netflix_analysis.R` — Full R script with all analysis and visualizations
 
-## Author
-Business Analytics Student — Farmingdale State College
-Self-directed R learning project, Summer 2026
